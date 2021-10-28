@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/photo-order-app/static/css/main.480fa747.chunk.css",
+    "main.js": "/photo-order-app/static/js/main.5b3a4585.chunk.js",
+    "main.js.map": "/photo-order-app/static/js/main.5b3a4585.chunk.js.map",
+    "runtime-main.js": "/photo-order-app/static/js/runtime-main.1ee790d3.js",
+    "runtime-main.js.map": "/photo-order-app/static/js/runtime-main.1ee790d3.js.map",
+    "static/js/2.4899f27e.chunk.js": "/photo-order-app/static/js/2.4899f27e.chunk.js",
+    "static/js/2.4899f27e.chunk.js.map": "/photo-order-app/static/js/2.4899f27e.chunk.js.map",
+    "static/js/3.8f9fb712.chunk.js": "/photo-order-app/static/js/3.8f9fb712.chunk.js",
+    "static/js/3.8f9fb712.chunk.js.map": "/photo-order-app/static/js/3.8f9fb712.chunk.js.map",
+    "index.html": "/photo-order-app/index.html",
+    "static/css/main.480fa747.chunk.css.map": "/photo-order-app/static/css/main.480fa747.chunk.css.map",
+    "static/js/2.4899f27e.chunk.js.LICENSE.txt": "/photo-order-app/static/js/2.4899f27e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ee790d3.js",
+    "static/js/2.4899f27e.chunk.js",
+    "static/css/main.480fa747.chunk.css",
+    "static/js/main.5b3a4585.chunk.js"
+  ]
+}
